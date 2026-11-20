@@ -1,0 +1,6 @@
+{
+  "name": "Normandie · Plages du Débarquement",
+  "description": "Carte interactive et guide historique des plages du Débarquement en Normandie (Utah, Omaha, Gold, Juno, Sword) avec itinéraire de visite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
